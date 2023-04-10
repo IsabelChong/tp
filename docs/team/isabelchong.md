@@ -32,10 +32,8 @@ View my code contribution here: [Code Dashboard](https://nus-cs2103-ay2223s2.git
   [#239](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/239),
   [#266](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/266),
   [#267](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/267))
-  * Added in the user instructions for commands under `Task Page` and `Grades Page` - `task`, `add task`, `edit task`, 
-    `delete task` and `assign`
-  * Added in guiding examples under `Navigation Guide`
-  * Added in the description under `Visual Guide` and described the different elements
+  * Added in the user instructions for commands under `Task Page` and `Grades Page`
+  * Added in guiding examples under `Navigation Guide` and the description of elements under `Visual Guide`
 * Helped to review PRs about UG [here](https://github.com/AY2223S2-CS2103T-T15-4/tp/pulls?q=is%3Apr+commenter%3A%40me+UG+-author%3A%40me)
 
 ### Contributions to Developer Guide (DG)

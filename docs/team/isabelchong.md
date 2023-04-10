@@ -54,11 +54,6 @@ View my code contribution here: [Code Dashboard](https://nus-cs2103-ay2223s2.git
 
 ## Contributions to Team-Based Tasks
 * Handled setting up of `codecov`
-* Tested application throughout v1.2 to v1.4 and found some bugs ([#142](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/142), 
-  [#150](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/150), 
-  [#239](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/239),
-  [#266](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/266))
-* Handled changing of printing to PDF document header from `AB-3` to `CLIpboard` [#267](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/267)
 
 ## Review/Monitoring Contributions
 * Reviewed [PRs](https://github.com/AY2223S2-CS2103T-T15-4/tp/pulls?q=is%3Apr+commenter%3A%40me) on code and 

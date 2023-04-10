@@ -6,7 +6,6 @@ title: Isabel Chong's Project Portfolio Page
 
 ## Overview
 CLIpboard is a desktop application that helps educators, especially those that tutor multiple classes, by managing their students’ particulars in an organised manner.
-It is optimized for use via a Command Line Interface (CLI) while still having the benefits of a Graphical User Interface (GUI).
 
 ## Summary of Contributions
 
@@ -18,7 +17,6 @@ View my code contribution here: [Code Dashboard](https://nus-cs2103-ay2223s2.git
   [#74](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/74),
   [#59](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/59))
     * Updated `AddCommand`, `EditCommand` and `Student` class to include `module` field
-    * Changed the student identification field from `Name` to `StudentID`
 * Implemented features of assigning grades ([#133](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/133), 
     [#142](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/142),
     [#264](https://github.com/AY2223S2-CS2103T-T15-4/tp/pull/264))
